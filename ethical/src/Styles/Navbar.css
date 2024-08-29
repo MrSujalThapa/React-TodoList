@@ -1,0 +1,44 @@
+.navbar {
+    height: 7dvh;
+    background-color: rgb(0,0,53);
+    color: white;
+    display: flex;
+    align-items: center; 
+    /* justify-content: center;  */
+    width: 100%;
+}
+
+.logo {
+    font-size: 120%;
+    font-weight: bold;
+    margin-left: 2%;
+}
+
+.list {
+    display:flex;
+    align-self: right;
+    list-style: none;
+    margin: 0 2.5% 0 auto;
+}
+
+li a {
+    color: white;
+   text-decoration: none;
+} 
+
+li a:hover {
+    color: rgb(228, 233, 247);
+   box-shadow: 2px 2px 2px 1px rgb(0, 0, 65);
+}
+
+.listItem {
+    margin-right: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
