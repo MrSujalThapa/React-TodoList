@@ -35,3 +35,16 @@ Going to update this todoList soon to implement features such as:
 - Host the app to create a dataset of the number of user's that utilize the app
 - Give advice on how to increase productivity and completion of todo's
 - Extract user data -speciffically the ratio of todo's completed vs created to optimize suggestions and advice to see what is the most impactful prompts.
+
+
+
+## Setup:
+```sh
+git clone https://github.com/MrSujalThapa/React-TodoList.git
+```
+or alternatively, download the repository as a zip.
+
+Developer environment setup:
+```sh
+npm install
+```
